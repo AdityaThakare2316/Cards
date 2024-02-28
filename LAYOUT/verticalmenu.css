@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+nav{
+    background-color: rgba(68, 196, 238, 0.896);
+    width: 10%;
+    height: 100vh;
+}
+#cont{
+    margin: 0;
+    padding: 0;
+    list-style-type:none;
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding: 20px 0px;
+    display: block;
+    text-align: center;
+}
+a:hover{
+    background-color: black;
+    color: chartreuse;
+}
